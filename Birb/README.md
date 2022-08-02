@@ -2,9 +2,9 @@
 Birb.js is a light-weight JavaScript add-on that provides functions that interacts HTML.
 
 ## Features
-• Very easy to learn. Can use absolute begginer.
-• English like ‹syntax›.
-• No need of downloading anyhting else, just drag this folder into your folder.
+1. Very easy to learn. Can use absolute begginer.
+2. English like ‹syntax›.
+3. No need of downloading anyhting else, just drag this folder into your folder.
 
 
 ## Learn
